@@ -45,10 +45,7 @@ Android app promoting transparency and civic participation.
 
 ---
 
-### 📈 GitHub Stats  
 
-![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohan-pendurthi&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-pendurthi&layout=compact&theme=radical)  
 
 ---
 
